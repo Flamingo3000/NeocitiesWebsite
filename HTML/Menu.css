@@ -1,0 +1,36 @@
+.imagem {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+}
+
+.imagem2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.buttons {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+}
+
+.text {
+  text-align: center;
+  font-style: italic;
+  color: gold;
+}
+
+.buttons2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+}
+
+.text2 {
+  color: gold;
+}

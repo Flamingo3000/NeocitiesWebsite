@@ -1,0 +1,16 @@
+.text {
+  color: gold;
+}
+
+.images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Timage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  transform: scaleX(-1);
+}
