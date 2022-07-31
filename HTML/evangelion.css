@@ -1,0 +1,15 @@
+.buttons {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+.text1 {
+    color: black;
+}
+
+.images {
+    max-width: 30px;
+    max-height: 50px;
+}
